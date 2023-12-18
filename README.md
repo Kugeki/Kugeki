@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kugeki
 - 👀 I’m interested in 💻programming
-- 🌱 I’m currently learning 🍓Ruby, Go, C#, 🦀Rust, 
+- 🌱 I’m currently learning: Go, 🦀Rust.
 - 💞️ I’m looking to collaborate on open-source projects
 - 🔳 @Tetraplex2 team
 
